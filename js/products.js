@@ -17,7 +17,7 @@ export const PRODUCTS = [
     categoryLabel: "Almacenamiento Seguro",
     price: 149.90, // Precio referencial en Soles (S/)
     badge: "Más Solicitado",
-    image: "assets/images/tanque-120l.jpg", // Fotografía oficial
+    image: "/images/tanque-120l.jpg", // Fotografía oficial
     imageAlt: "Tanque recolector de polietileno de 120 litros con tapa hermética",
     shortDescription: "Depósito reforzado con tapa hermética para recolección y almacenamiento higiénico de agua de lluvia.",
     fullDescription: "Fabricado en polietileno de alta densidad con protección contra rayos UV. Cuenta con tapa de rosca de ajuste firme para evitar el ingreso de insectos y suciedad, entrada superior con reborde para acople de canaleta y adaptador inferior para llave de paso o manguera.",
@@ -37,7 +37,7 @@ export const PRODUCTS = [
     categoryLabel: "Conducción de Agua",
     price: 59.90, // Precio referencial en Soles (S/)
     badge: "Instalación Fácil",
-    image: "assets/images/canaleta-basica.jpg", // Fotografía oficial
+    image: "/images/canaleta-basica.jpg", // Fotografía oficial
     imageAlt: "Kit de canaleta de PVC con soportes, codo de bajada y accesorios para techos",
     shortDescription: "Kit completo de canaleta y accesorios para conducir eficazmente el agua del techo hacia un depósito.",
     fullDescription: "Sistema modular ligero y duradero que recolecta el agua de los tejados, protegiendo las paredes y cimientos de la erosión por goteras y guiando el caudal limpiamente hacia tanques o zonas de desfogue seguro.",
@@ -57,7 +57,7 @@ export const PRODUCTS = [
     categoryLabel: "Protección y Filtro",
     price: 24.90, // Precio referencial en Soles (S/)
     badge: "Barrera Sanitaria",
-    image: "assets/images/cubierta-tanque.jpg", // Fotografía oficial
+    image: "/images/cubierta-tanque.jpg", // Fotografía oficial
     imageAlt: "Cubierta protectora resistente al agua con malla antipolvo y cordón elástico ajustable",
     shortDescription: "Cubierta elástica resistente que ayuda a proteger el depósito de hojas secas, polvo y residuos.",
     fullDescription: "Funda textil impermeable con malla central microporosa que permite el paso continuo del agua mientras bloquea hojas, insectos, arenilla y polvillo transportado por el viento de la costa liberteña.",
@@ -77,7 +77,7 @@ export const PRODUCTS = [
     categoryLabel: "Respuesta y Emergencia",
     price: 69.90, // Precio referencial en Soles (S/)
     badge: "Recomendado INDECI",
-    image: "assets/images/kit-emergencia.jpg", // Fotografía oficial
+    image: "/images/kit-emergencia.jpg", // Fotografía oficial
     imageAlt: "Kit de emergencia familiar con linterna recargable, poncho, silbato y bolso impermeable",
     shortDescription: "Conjunto esencial que incluye linterna LED, silbato de alerta, poncho impermeable y bolsa para documentos.",
     fullDescription: "Paquete preventivo diseñado para mantener a la familia comunicada, iluminada y resguardada ante cortes repentinos de energía o lluvias imprevistas durante la noche.",
@@ -97,7 +97,7 @@ export const PRODUCTS = [
     categoryLabel: "Contención Perimetral",
     price: 8.50, // Precio referencial en Soles (S/)
     badge: "Económico y Vital",
-    image: "assets/images/bolsa-arena.jpg", // Fotografía oficial
+    image: "/images/bolsa-arena.jpg", // Fotografía oficial
     imageAlt: "Bolsa de polipropileno reforzado con amarra para desvío preventivo de corrientes de agua",
     shortDescription: "Bolsa de polipropileno extrafuerte para rellenar con arena y desviar pequeños flujos de agua.",
     fullDescription: "Saco de polipropileno con tratamiento UV y costura doble reforzada. Diseñado para formar diques de contención en portones, entradas a desnivel, puertas de servicio y veredas expuestas a corrientes superficiales.",
@@ -117,7 +117,7 @@ export const PRODUCTS = [
     categoryLabel: "Protección y Resguardo",
     price: 34.90, // Precio referencial en Soles (S/)
     badge: "Sellado Seguro",
-    image: "assets/images/caja-impermeable.jpg", // Fotografía oficial
+    image: "/images/caja-impermeable.jpg", // Fotografía oficial
     imageAlt: "Caja organizadora con cierre hermético de silicona para resguardo de documentos y pilas",
     shortDescription: "Caja con tapa hermética para proteger documentos, pilas y objetos valiosos contra salpicaduras y humedad.",
     fullDescription: "Contenedor rígido de policarbonato translúcido con empaque de silicona perimetral y clips de presión en cuatro costados. Asegura que papeles importantes, certificados, medicamentos y aparatos electrónicos se mantengan secos.",
