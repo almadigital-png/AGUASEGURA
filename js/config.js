@@ -21,7 +21,7 @@ export const CONFIG = {
   // Logotipo oficial de la empresa
   logo: {
     isPlaceholder: false, // Logotipo oficial adoptado
-    src: "assets/images/logo.jpg", // Ruta al logotipo oficial
+    src: "/images/logo.jpg", // Ruta al logotipo oficial publicado
     alt: "Logotipo oficial de AGUASEGURA La Libertad",
     notes: "Identidad visual oficial con escudo, gota de agua y colores corporativos."
   },
