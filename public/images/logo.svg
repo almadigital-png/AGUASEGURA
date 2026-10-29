@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 120" width="400" height="120" role="img" aria-label="Logo Oficial AGUASEGURA La Libertad">
+  <!-- Fondo y contenedor de marca -->
+  <defs>
+    <linearGradient id="petroleoGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F5D70" />
+      <stop offset="100%" stop-color="#083E4C" />
+    </linearGradient>
+    <linearGradient id="turquesaGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#29A6A0" />
+      <stop offset="100%" stop-color="#1B7A75" />
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.15" />
+    </filter>
+  </defs>
+
+  <!-- Escudo / Gota de Agua -->
+  <g transform="translate(15, 10)">
+    <!-- Escudo exterior protector -->
+    <path d="M50 8 C72 8 88 22 88 48 C88 78 50 96 50 96 C50 96 12 78 12 48 C12 22 28 8 50 8 Z" 
+          fill="url(#petroleoGrad)" filter="url(#shadow)" />
+    <!-- Gota interior de agua limpia -->
+    <path d="M50 20 C64 36 74 52 74 65 C74 78 63 86 50 86 C37 86 26 78 26 65 C26 52 36 36 50 20 Z" 
+          fill="url(#turquesaGrad)" opacity="0.9" />
+    <!-- Reflejo de luz -->
+    <ellipse cx="43" cy="52" rx="6" ry="12" transform="rotate(-25 43 52)" fill="#FFFFFF" opacity="0.45" />
+    <!-- Onda preventiva inferior -->
+    <path d="M34 72 Q42 66 50 72 T66 72" stroke="#F2B84B" stroke-width="3.5" stroke-linecap="round" fill="none" />
+  </g>
+
+  <!-- Textos de Marca -->
+  <g transform="translate(118, 20)">
+    <text x="0" y="32" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" 
+          font-size="28" font-weight="900" fill="#0F5D70" letter-spacing="1">AGUASEGURA</text>
+    <text x="0" y="56" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" 
+          font-size="16" font-weight="700" fill="#29A6A0" letter-spacing="3.5">LA LIBERTAD</text>
+    <text x="0" y="74" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, Roboto, sans-serif" 
+          font-size="10.5" font-weight="600" fill="#5F7D84" letter-spacing="0.5">PREVENCIÓN Y COSECHA DE LLUVIA</text>
+  </g>
+</svg>

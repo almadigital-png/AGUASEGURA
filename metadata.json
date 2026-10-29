@@ -1,0 +1,6 @@
+{
+  "name": "AGUASEGURA La Libertad - Prevención y Cosecha de Lluvia",
+  "description": "Página web comercial de AGUASEGURA La Libertad para prevención, recolección y almacenamiento seguro de agua de lluvia y protección familiar ante lluvias intensas y el Fenómeno de El Niño en la región La Libertad, Perú.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
